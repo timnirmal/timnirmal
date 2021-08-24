@@ -16,16 +16,19 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+<!--
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
+-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+<!--
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timnirmal)](https://github.com/anuraghazra/github-readme-stats)    
 
 [![TimNirmal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=timnirmal)](https://github.com/anuraghazra/github-readme-stats)
