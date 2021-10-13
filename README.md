@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 [![TimNirmal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=timnirmal)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/1ef7207e-8c7f-48e7-85dd-ae25ae25470e.svg)](https://wakatime.com/@1ef7207e-8c7f-48e7-85dd-ae25ae25470e)
 
 
 
