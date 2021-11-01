@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/timnirmal/)](https://twitter.com/timnirmal)
+[![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/thimiranirmal)](https://www.facebook.com/thimiranirmal)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thimiranirmal/)](https://www.linkedin.com/in/thimiranirmal/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
