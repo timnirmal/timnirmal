@@ -1,4 +1,24 @@
-### Hi there 👋
+<h1 align='center'>
+   Hi there 👋 I'm Thimira Nirmal👨‍💻
+</h1>
+
+<p align='center'>
+  Student of University of Sri Jayewardenepura 
+</p>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/thimiranirmal//">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/thimiranirmal">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/timnirmal/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 <!--
 **timnirmal/timnirmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +34,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/timnirmal/)](https://twitter.com/timnirmal)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/thimiranirmal)](https://www.facebook.com/thimiranirmal)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thimiranirmal/)](https://www.linkedin.com/in/thimiranirmal/)
-
+-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
