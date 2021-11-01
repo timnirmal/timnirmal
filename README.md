@@ -39,22 +39,15 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/thimiranirmal)](https://www.facebook.com/thimiranirmal)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thimiranirmal/)](https://www.linkedin.com/in/thimiranirmal/)
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-<!--
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
--->
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=radical&count_private=true"></a>
+</p>
 
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timnirmal)](https://github.com/anuraghazra/github-readme-stats)    
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timnirmal"></a>
+</p>
+
 
 <!--
 [![TimNirmal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=timnirmal)](https://github.com/anuraghazra/github-readme-stats)
