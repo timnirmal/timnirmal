@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timnirmal&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
@@ -31,7 +32,9 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timnirmal)](https://github.com/anuraghazra/github-readme-stats)    
 
+<!--
 [![TimNirmal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=timnirmal)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![wakatime](https://wakatime.com/badge/user/1ef7207e-8c7f-48e7-85dd-ae25ae25470e.svg)](https://wakatime.com/@1ef7207e-8c7f-48e7-85dd-ae25ae25470e)
 
