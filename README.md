@@ -48,9 +48,9 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timnirmal"></a>
 </p>
 
-<p align='center'>
-        <img  width="390" src="https://github-readme-streak-stats.herokuapp.com/?username=timnirmal&theme=tokyonight" />
-</p>
+<div align='center'>
+   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=timnirmal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></a>
+</div>
 
 
 <!--
