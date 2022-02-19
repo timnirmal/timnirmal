@@ -52,6 +52,10 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timnirmal"></a>
 </p>
 
+<p align="center">
+  <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/timnirmal/count.svg" alt="Visitor Count" /></h2>
+</p>
+
 
 <!--
 [![TimNirmal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=timnirmal)](https://github.com/anuraghazra/github-readme-stats)
