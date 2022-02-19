@@ -45,12 +45,12 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timnirmal"></a>
+   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=timnirmal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></a>
 </p>
 
-<div align='center'>
-   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=timnirmal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></a>
-</div>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timnirmal"></a>
+</p>
 
 
 <!--
