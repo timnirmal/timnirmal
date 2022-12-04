@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Student of University of Sri Jayewardenepura 
+  Undergraduate of University of Sri Jayewardenepura 
 </p>
 
 <p align='center'>
