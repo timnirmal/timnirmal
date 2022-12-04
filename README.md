@@ -48,9 +48,9 @@ Here are some ideas to get you started:
    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=timnirmal&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></a>
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timnirmal"></a>
-</p>
+</p> -->
 
 <p align="center">
   <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/timnirmal/count.svg" alt="Visitor Count" /></h2>
